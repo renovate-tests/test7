@@ -4,14 +4,14 @@
   "dependencies": {
     "ncups": "^0.2.0",
     "ncups": "^0.1.2",
-    "eslint": "^3.19.0",
-    "helmet": "^3.5.0",
-    "mocha": "^3.3.0",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.0",
-    "serve-favicon": "^2.4.2",
-    "socket.io": "^2.0.3",
-    "socket.io-events": "^0.4.6",
-    "winston": "^2.3.1"
+    "eslint": "3.19.0",
+    "helmet": "3.9.0",
+    "mocha": "3.5.3",
+    "request": "2.83.0",
+    "request-promise": "4.2.2",
+    "serve-favicon": "2.4.5",
+    "socket.io": "2.0.4",
+    "socket.io-events": "0.4.6",
+    "winston": "2.4.0"
   }
 }
